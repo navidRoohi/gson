@@ -11,3 +11,8 @@ http://gradleplease.appspot.com
 
 // JSON Formatter<br>
 http://jsonviewer.stack.hu/
+
+// add dependencies to build gradle
+loopj
+picasso
+gson
